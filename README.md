@@ -1,4 +1,0 @@
--  Hi, I’m Iyad Askar
--  I’m interested in - writing
--  I’m currently learning - coding
--  How to reach me - iyad.askar14gmail.com
